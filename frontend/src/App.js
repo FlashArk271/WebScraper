@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/articles';
+// const API_URL = 'http://localhost:5000/api/articles';
+const API_URL = "https://webscraper-lzqq.onrender.com/api/articles";
+
 
 // Function to format markdown-like content to proper HTML
 function formatContent(text) {
