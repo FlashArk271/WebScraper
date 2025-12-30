@@ -3,7 +3,9 @@
 Scrapes articles from BeyondChats blog, enhances them using AI, and displays both versions in a React frontend.
 
 ## 🌐 Live Demo
-**[https://beyondchats-articles.vercel.app](https://beyondchats-articles.vercel.app)**
+**[https://beyondchats-articles.vercel.app](https://web-scraper-iota-one.vercel.app/)**
+
+
 
 ---
 
